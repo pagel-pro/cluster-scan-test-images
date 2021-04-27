@@ -13,7 +13,7 @@
   },
   {
     "image": "quay.io/sdase/hello-dropwizard:latest",
-    "image_id": "quay.io/sdase/hello-dropwizard@sha256:3e844cb52d53682c62cd1b6f5067e79de98fa2ee02cd31aeeea2276edb458bbf ",
+    "image_id": "quay.io/sdase/hello-dropwizard@sha256:8f36fb988bf3d7f17864f51ebd9f5ac30f6dc5789bfd32bb23e06535cd52a05a",
     "slack": "#security-notifications-test",
     "skip": false,
     "team": "moneypenny",
