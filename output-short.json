@@ -32,7 +32,7 @@
     "namespace": "defectdojo",
     "container_running_as": "TODO",
     "environment": "tools",
-    "email": "clusterscannertest@sda.se"
+    "email": "clusterscannertest@sda.se",
     "scm_source_branch": "TODO"
   },
   {
@@ -44,7 +44,7 @@
     "namespace": "defectdojo",
     "container_running_as": "TODO",
     "environment": "tools",
-    "email": "clusterscannertest@sda.se"
+    "email": "clusterscannertest@sda.se",
     "scm_source_branch": "TODO"
   },
   {
@@ -56,7 +56,7 @@
     "namespace": "defectdojo",
     "container_running_as": "TODO",
     "environment": "tools",
-    "email": "clusterscannertest@sda.se"
+    "email": "clusterscannertest@sda.se",
     "scm_source_branch": "TODO"
   }  
 ]
