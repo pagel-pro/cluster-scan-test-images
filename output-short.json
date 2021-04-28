@@ -9,7 +9,7 @@
     "container_running_as": "TODO",
     "environment": "tools",
     "scm_source_branch": "TODO",
-    "email": "clusterscanner-test@pagel.pro"
+    "email": "clusterscannertest@sda.se"
   },
   {
     "image": "quay.io/sdase/hello-dropwizard:latest",
@@ -21,7 +21,7 @@
     "container_running_as": "TODO",
     "environment": "tools",
     "scm_source_branch": "master",
-    "email": "clusterscanner-test@pagel.pro"
+    "email": "clusterscannertest@sda.se"
   },
   {
     "image": "defectdojo/defectdojo-django:1.12.0",
@@ -32,7 +32,7 @@
     "namespace": "defectdojo",
     "container_running_as": "TODO",
     "environment": "tools",
-    "email": "clusterscanner-test@pagel.pro",
+    "email": "clusterscannertest@sda.se"
     "scm_source_branch": "TODO"
   },
   {
@@ -44,7 +44,7 @@
     "namespace": "defectdojo",
     "container_running_as": "TODO",
     "environment": "tools",
-    "email": "clusterscanner-test@pagel.pro",
+    "email": "clusterscannertest@sda.se"
     "scm_source_branch": "TODO"
   }
 ]
