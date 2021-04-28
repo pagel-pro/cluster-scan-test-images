@@ -46,5 +46,17 @@
     "environment": "tools",
     "email": "clusterscannertest@sda.se"
     "scm_source_branch": "TODO"
-  }
+  },
+  {
+    "image": "not-existing",
+    "image_id": "not-existing@sha256:d7347376302fdf07221b3476e3746d54224b1e2a5dcd3367ff343f9ff3e7e1a9",
+    "slack": "#security-notifications-test",
+    "skip": false,
+    "team": "5xx",
+    "namespace": "defectdojo",
+    "container_running_as": "TODO",
+    "environment": "tools",
+    "email": "clusterscannertest@sda.se"
+    "scm_source_branch": "TODO"
+  }  
 ]
