@@ -1,0 +1,50 @@
+[
+  {
+    "image": "argoproj/argocd:v1.8.4",
+    "image_id": "argoproj/argocd@sha256:439393f0f7de91e8db45e99d1f0f2426b3c4c0081077e4b7d4fc9736b147f851",
+    "slack": "#security-notifications-test",
+    "skip": true,
+    "team": "5xx",
+    "namespace": "argocd",
+    "container_running_as": "TODO",
+    "environment": "tools",
+    "scm_source_branch": "TODO",
+    "email": "clusterscanner-test@pagel.pro"
+  },
+  {
+    "image": "quay.io/sdase/hello-dropwizard:latest",
+    "image_id": "quay.io/sdase/hello-dropwizard@sha256:8f36fb988bf3d7f17864f51ebd9f5ac30f6dc5789bfd32bb23e06535cd52a05a",
+    "slack": "#security-notifications-test",
+    "skip": false,
+    "team": "moneypenny",
+    "namespace": "service-test",
+    "container_running_as": "TODO",
+    "environment": "tools",
+    "scm_source_branch": "master",
+    "email": "clusterscanner-test@pagel.pro"
+  },
+  {
+    "image": "defectdojo/defectdojo-django:1.12.0",
+    "image_id": "defectdojo/defectdojo-django@sha256:a3d83c7d6e5230405778f31ee9b7dd8dcb3c64007ad2e71d5961909735933bb3",
+    "skip": true,
+    "slack": "#security-notifications-test",
+    "team": "5xx",
+    "namespace": "defectdojo",
+    "container_running_as": "TODO",
+    "environment": "tools",
+    "email": "clusterscanner-test@pagel.pro",
+    "scm_source_branch": "TODO"
+  },
+  {
+    "image": "nginx/nginx-prometheus-exporter:0.8.0",
+    "image_id": "nginx/nginx-prometheus-exporter@sha256:d7347376302fdf07221b3476e3746d54224b1e2a5dcd3367ff343f9ff3e7e1a9",
+    "slack": "#security-notifications-test",
+    "skip": true,
+    "team": "5xx",
+    "namespace": "defectdojo",
+    "container_running_as": "TODO",
+    "environment": "tools",
+    "email": "clusterscanner-test@pagel.pro",
+    "scm_source_branch": "TODO"
+  }
+]
