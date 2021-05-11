@@ -12,8 +12,8 @@
     "email": "clusterscannertest@sda.se"
   },
   {
-    "image": "quay.io/sdase/java-kubectl:2d5a202",
-    "image_id": "quay.io/sdase/java-kubectl@sha256:f1a7c25ae64b5dc68334fce65232ba8136c31efde29ff417d26fd6124ad678c6",
+    "image": "omkarjoshi/dropwizard-microservice:latest",
+    "image_id": "omkarjoshi/dropwizard-microservice@sha256:73bec520188d1e73f93a62ce382a5bbdbdeafe8698e28d58aee7c3c0cae276ae",
     "slack": "#security-notifications-test",
     "skip": false,
     "team": "moneypenny",
