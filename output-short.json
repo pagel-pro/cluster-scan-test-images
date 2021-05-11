@@ -13,7 +13,7 @@
   },
   {
     "image": "quay.io/sdase/java-kubectl:2d5a202",
-    "image_id": "quay.io/sdase/hello-dropwizard@sha256:f1a7c25ae64b5dc68334fce65232ba8136c31efde29ff417d26fd6124ad678c6",
+    "image_id": "quay.io/sdase/java-kubectl@sha256:f1a7c25ae64b5dc68334fce65232ba8136c31efde29ff417d26fd6124ad678c6",
     "slack": "#security-notifications-test",
     "skip": false,
     "team": "moneypenny",
