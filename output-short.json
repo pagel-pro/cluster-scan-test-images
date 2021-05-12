@@ -7,7 +7,7 @@
     "team": "5xx",
     "namespace": "argocd",
     "container_running_as": "TODO",
-    "environment": "tools",
+    "environment": "test-cluster",
     "scm_source_branch": "TODO",
     "email": "clusterscannertest@sda.se"
   },
@@ -19,7 +19,7 @@
     "team": "moneypenny",
     "namespace": "service-test",
     "container_running_as": "TODO",
-    "environment": "tools",
+    "environment": "test-cluster",
     "scm_source_branch": "master",
     "email": "clusterscannertest@sda.se"
   },
@@ -31,7 +31,7 @@
     "team": "5xx",
     "namespace": "defectdojo",
     "container_running_as": "TODO",
-    "environment": "tools",
+    "environment": "test-cluster",
     "email": "clusterscannertest@sda.se",
     "scm_source_branch": "TODO"
   },
@@ -43,7 +43,7 @@
     "team": "5xx",
     "namespace": "defectdojo",
     "container_running_as": "TODO",
-    "environment": "tools",
+    "environment": "test-cluster",
     "email": "clusterscannertest@sda.se",
     "scm_source_branch": "TODO"
   },
@@ -55,7 +55,7 @@
     "team": "5xx",
     "namespace": "defectdojo",
     "container_running_as": "TODO",
-    "environment": "tools",
+    "environment": "test-cluster",
     "email": "clusterscannertest@sda.se",
     "scm_source_branch": "TODO"
   }  
