@@ -1,20 +1,5 @@
 [
   {
-    "image": "quay.io/sdase/jenkins:0.2.19",
-    "image_id": "quay.io/sdase/jenkins@sha256:c890d1320151b793e95a6e232b5f993a0da32dc8394604b9fc4d05de4a3cb0c6",
-    "email": "",
-    "slack": "#nobody-security",
-    "scm_source_url": null,
-    "scm_source_branch": null,
-    "scm_release": null,
-    "skip": false,
-    "app_kubernetes_io_name": "quay.io/sdase/jenkins:0.2.19",
-    "team": "nobody",
-    "namespace": "jenkins-testing",
-    "container_running_as": "TODO",
-    "environment": "test"
-  },
-  {
     "image": "argoproj/argocd:v1.8.4",
     "image_id": "argoproj/argocd@sha256:439393f0f7de91e8db45e99d1f0f2426b3c4c0081077e4b7d4fc9736b147f851",
     "slack": "#security-notifications-test",
