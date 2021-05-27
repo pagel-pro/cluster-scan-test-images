@@ -15,7 +15,8 @@
     "is_scan_distroless": "false",
     "is_scan_malware": "false",
     "is_scan_dependency_check": "false",
-    "is_scan_runasroot": "false"
+    "is_scan_runasroot": "false",
+    "scan_lifetime_max_days": 14
   },
   {
     "image": "quay.io/sdase/hello-dropwizard:latest",
@@ -33,7 +34,8 @@
     "is_scan_distroless": "true",
     "is_scan_malware": "false",
     "is_scan_dependency_check": "false",
-    "is_scan_runasroot": "true"
+    "is_scan_runasroot": "true",
+    "scan_lifetime_max_days": 30
   },
   {
     "image": "defectdojo/defectdojo-django:1.12.0",
@@ -51,7 +53,8 @@
     "is_scan_distroless": "true",
     "is_scan_malware": "false",
     "is_scan_dependency_check": "true",
-    "is_scan_runasroot": "true"
+    "is_scan_runasroot": "true",
+    "scan_lifetime_max_days": 14
   },
   {
     "image": "nginx/nginx-prometheus-exporter:0.8.0",
@@ -69,7 +72,8 @@
     "is_scan_distroless": "true",
     "is_scan_malware": "false",
     "is_scan_dependency_check": "true",
-    "is_scan_runasroot": "true"
+    "is_scan_runasroot": "true",
+    "scan_lifetime_max_days": 14
   },
   {
     "image": "not-existing",
@@ -87,6 +91,7 @@
     "is_scan_distroless": "true",
     "is_scan_malware": "false",
     "is_scan_dependency_check": "true",
-    "is_scan_runasroot": "true"
+    "is_scan_runasroot": "true",
+    "scan_lifetime_max_days": 14
   }  
 ]
