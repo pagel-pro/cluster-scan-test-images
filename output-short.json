@@ -3,7 +3,7 @@
     "image": "argoproj/argocd:v1.8.4",
     "image_id": "argoproj/argocd@sha256:439393f0f7de91e8db45e99d1f0f2426b3c4c0081077e4b7d4fc9736b147f851",
     "slack": "#security-notifications-test",
-    "skip": false,
+    "skip": true,
     "team": "5xx-test",
     "app_kubernetes_io_name": "argocd",
     "namespace": "argocd",
