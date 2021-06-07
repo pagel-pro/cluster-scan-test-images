@@ -6,7 +6,7 @@
     "skip": false,
     "team": "security-test",
     "app_kubernetes_io_name": "petstore",
-    "namespace": "argocd",
+    "namespace": "petstore-prod",
     "container_running_as": "TODO",
     "environment": "test-cluster",
     "scm_source_branch": "TODO",
