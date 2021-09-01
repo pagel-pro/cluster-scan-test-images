@@ -21,4 +21,4 @@
     "is_scan_runasroot": "false",
     "is_scan_new_version": "",
     "scan_lifetime_max_days": "200"
-  },
+  }
