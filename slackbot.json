@@ -7,7 +7,7 @@
     "scm_source_branch": null,
     "scm_release": "1.4.15",
     "skip": false,
-    "app_kubernetes_io_name": null,
+    "app_kubernetes_io_name": "quay.io/sdase/slackbot-patchmanagement",
     "app_version": "1.4.15",
     "team": "xxx",
     "namespace": "slackbot",
